@@ -1,0 +1,23 @@
+body{
+    background-color:lightsalmon;
+}
+
+#open_sketches{
+float: right;
+}
+
+h2{
+    background-color: white;
+}
+
+#timer{
+    float: right;
+    padding-right: 70px;
+    font-size: xx-large;
+}
+
+#Score{
+    float: left;
+    padding-left: 70px;
+    font-size: xx-large;
+}
